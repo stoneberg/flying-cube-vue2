@@ -1,10 +1,10 @@
 <template>
   <!--   <v-app id="app"> -->
-  <div id="app">
+  <v-app id="app">
     <component :is="layout">
       <router-view />
     </component>
-  </div>
+  </v-app>
   <!--   </v-app> -->
 </template>
 
