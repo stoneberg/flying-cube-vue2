@@ -1,9 +1,11 @@
 <template>
-  <v-app id="app">
+  <!--   <v-app id="app"> -->
+  <div id="app">
     <component :is="layout">
       <router-view />
     </component>
-  </v-app>
+  </div>
+  <!--   </v-app> -->
 </template>
 
 <script>
