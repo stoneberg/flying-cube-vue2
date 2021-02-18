@@ -42,7 +42,7 @@ export default {
     snackbar: false,
     text: 'Lorem ipsum dolor sit amet',
     vertical: true,
-    secretKey: 'RGVjb2RlIGZyb20gQmFzZTY0IGZvcm1hdA==', // Decode from Base64 format
+    secretKey: 'OjpARGV2ZWxvcGVkIEJ5IEtURFMsIExlYWd1ZVN5c3RlbQ==', // ::@Developed By KTDS, LeagueSystem
     message: '',
     encryptMessage: '',
     decryptMessage: ''
